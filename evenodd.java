@@ -14,12 +14,12 @@ public class evenodd {
         if(a[i]%2==0)
         {
             e++;
-//System.out.println("even");
+
         }
         else
         {
             o++;
-           // System.out.println("odd");
+         
         }
 
       }
